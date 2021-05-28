@@ -67,3 +67,9 @@ RESTful, é a plicação dos padrões REST.
   - 404: Not Found
 - 5xx: Server Error
   - 500: Internal Server Error
+
+### SOME NOTES ASIDE
+
+- Criamos o projecto: `yarn init -y` com package `JSON`
+- Criamos o servidor: `yarn add express`
+- Corremos o servidor: `node server.js`
